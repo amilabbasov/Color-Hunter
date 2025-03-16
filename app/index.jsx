@@ -240,9 +240,6 @@ const styles = StyleSheet.create({
     marginTop: 20,
     paddingHorizontal: 10,
     fontSize: 18,
-    textShadowColor: '#ff0',
-    textShadowOffset: { width: 0, height: 0 },
-    textShadowRadius: 5,
   },
   leftPlaceholder: {
     textAlign: 'left',
